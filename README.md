@@ -1,7 +1,7 @@
 
 # Example
 
-Remove the "Built with Mkdocs" footer from all the .html files in your site.
+Remove the "Built with Mkdocs" footer/ mkdocs credit from all the .html files in your site.
 
 Drop the Python script into a folder beside the /site folder.
 

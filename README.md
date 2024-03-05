@@ -1,5 +1,5 @@
 
-#2 Example
+# Example
 
 Remove the "Built with Mkdocs" footer from all the .html files in your site.
 

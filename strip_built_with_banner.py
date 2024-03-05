@@ -2,13 +2,6 @@ import os
 
 
 
-
-
-
-
-import os
-
-
 def list_files(directory_path):
     files = []
     for file_name in os.listdir(directory_path):
@@ -20,7 +13,7 @@ def list_files(directory_path):
     return files
 
 
-# Usage
+# folder where your site lives
 directory_path = "site"
 all_files = list_files(directory_path)
 for file_path in all_files:
